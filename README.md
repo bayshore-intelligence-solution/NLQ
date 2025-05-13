@@ -1,0 +1,4 @@
+- Python version > 3.10
+- pip install -r requirements.txt
+- streamlit run app.py
+- Bring you own csv and play with that
